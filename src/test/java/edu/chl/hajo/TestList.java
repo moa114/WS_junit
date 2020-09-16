@@ -69,7 +69,7 @@ public class TestList {
            assertTrue( m.get(i)==l.get(i));
         }
     }
-    
+
     @BeforeClass
     public static void beforeClass(){  //First of all
         System.out.println("Before class");
