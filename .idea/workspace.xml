@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f2dff130-2519-48a8-896d-9c16f9063b91" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/edu/chl/hajo/TestList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/edu/chl/hajo/TestList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -245,10 +243,10 @@
       <screen x="0" y="0" width="1500" height="960" />
     </state>
     <state width="1458" height="316" key="GridCell.Tab.1.right/0.0.1500.960@0.0.1500.960" timestamp="1599645290860" />
-    <state x="231" y="55" key="SettingsEditor" timestamp="1599641065289">
+    <state x="231" y="55" key="SettingsEditor" timestamp="1600246730723">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state x="231" y="55" key="SettingsEditor/0.0.1500.960@0.0.1500.960" timestamp="1599641065289" />
+    <state x="231" y="55" key="SettingsEditor/0.0.1500.960@0.0.1500.960" timestamp="1600246730723" />
     <state x="446" y="304" key="com.intellij.ide.util.TipDialog" timestamp="1600078593446">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
